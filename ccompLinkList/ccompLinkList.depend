@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1560003896 source:d:\documentos\c++ tercer\ccomplinklist\main.cpp
+	<iostream>
+	"nodo.h"
+	"nodod.h"
+	"LE.h"
+	"LED.h"
+	"LEC.h"
+	"LEDC.h"
+	"mergesort.h"
+
+1558235346 source:d:\documentos\c++ tercer\ccomplinklist\src\nodo.cpp
+
+1558749339 d:\documentos\c++ tercer\ccomplinklist\include\nodo.h
+
+1558287845 source:d:\documentos\c++ tercer\ccomplinklist\src\le.cpp
+
+1559398771 d:\documentos\c++ tercer\ccomplinklist\include\le.h
+	<iostream>
+	"nodo.h"
+
+1558668616 source:d:\documentos\c++ tercer\ccomplinklist\src\led.cpp
+
+1559769253 d:\documentos\c++ tercer\ccomplinklist\include\led.h
+	"nodod.h"
+
+1558668603 source:d:\documentos\c++ tercer\ccomplinklist\src\nodod.cpp
+
+1558668598 d:\documentos\c++ tercer\ccomplinklist\include\nodod.h
+
+1558749756 source:d:\documentos\c++ tercer\ccomplinklist\src\nodoc.cpp
+
+1558751288 d:\documentos\c++ tercer\ccomplinklist\include\nodoc.h
+
+1558749750 source:d:\documentos\c++ tercer\ccomplinklist\src\lec.cpp
+
+1560003068 d:\documentos\c++ tercer\ccomplinklist\include\lec.h
+	"nodoc.h"
+
+1559946328 d:\documentos\c++ tercer\ccomplinklist\include\ledc.h
+	"nodod.h"
+
+1558758173 source:d:\documentos\c++ tercer\ccomplinklist\src\ledc.cpp
+
+1559085732 source:d:\documentos\c++ tercer\ccomplinklist\src\mergesort.cpp
+
+1560003935 d:\documentos\c++ tercer\ccomplinklist\include\mergesort.h
+	"LE.h"
+	"nodo.h"
+
